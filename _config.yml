@@ -83,12 +83,12 @@ repository: meizupush/meizupush.github.io
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: comsince
-douban_username: comsince
-facebook_username: comsince
-weibo_username: comsince
-zhihu_username: comsince
-twitter_username: comsince
+github_username: meizupush
+douban_username: meizupush
+facebook_username: meizupush
+weibo_username: meizupush
+zhihu_username: meizupush
+twitter_username: meizupush
 
 # ---------------- #
 #      Comments    #
